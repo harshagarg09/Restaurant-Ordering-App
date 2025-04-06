@@ -123,6 +123,8 @@ h3 {
     border: none;
     color: white;
     border-radius: 2px;
+    font-weight: bold;
+    font-size: 32px;
 }
 
 #payment-modal {
