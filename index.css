@@ -62,8 +62,8 @@ p {
 .add-item {
    border: 1px solid #DEDEDE;
    background-color: white;
-   width: 50px;  /* width and height must be the same */
-   height: 50px; /* width and height must be the same */
+   width: 60px;  /* width and height must be the same */
+   height: 60px; /* width and height must be the same */
    font-size: 32px;  /* size of the "+" symbol */
    margin-left: auto;
    border-radius: 50%;  /* This makes it circular */
